@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1744101102545,
+    "description" : "Erstentwicklung der Staging-Beladung",
+    "identifier" : "Staging-Beladung",
+    "lastModifiedTimestamp" : 1744101102545,
+    "name" : "Staging-Beladung",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
